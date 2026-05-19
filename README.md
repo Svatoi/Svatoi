@@ -22,6 +22,7 @@
 
   <hr>
 
+  ```
   <h2>💻 Tech Stack:</h2>
   <p>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -44,4 +45,5 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
   </p>
+  ```
 </div>
