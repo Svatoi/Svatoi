@@ -55,6 +55,7 @@
 
   <h2>📊 GitHub Stats:</h2>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Svatoi&show_icons=true&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Svatoi&theme=gruvbox_light&hide_border=true" alt="Streak"/>
+   <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=Svatoi&show_icons=true&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svatoi&theme=gruvbox-light&hide_border=true" alt="Streak"/>
 
 </div>
