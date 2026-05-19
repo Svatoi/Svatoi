@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi there!</h1>  
+  <h1> Hi there!</h1>  
   
   <p><b>I’m Fennec</b>, a <code>Python</code> & <code>C++</code> developer who loves coffee ☕</p>  
   
