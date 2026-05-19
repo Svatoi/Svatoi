@@ -43,19 +43,4 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
   </p>
-  
-  <hr>
-  
-  <h2>🏆 GitHub Trophies:</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Svatoi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
-  </p>
-
-  <hr>
-
-  <h2>📊 GitHub Stats:</h2>
-
-   <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=Svatoi&show_icons=true&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Svatoi&theme=gruvbox-light&hide_border=true" alt="Streak"/>
-
 </div>
