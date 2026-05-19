@@ -2,7 +2,7 @@
 
   <h1> Hi there!</h1>  
   
-  <p><b>I’m Fennec</b>, a <code>Python</code> & <code>C++</code> developer who loves coffee ☕</p>  
+  <p><b>Programmer on</b> <code>Python</code> & <code>C++</code>☕</p>  
   
   <h3>You can connect with me here:</h3>
   <p>
