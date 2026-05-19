@@ -2,7 +2,7 @@
 
   <h1> Hi there!</h1>  
   
-  <p><b>Programmer on</b> <code>Python</code> & <code>C++</code>☕</p>  
+  <p><b>Programmer on</b> <code>Python</code> & <code>C++</code>& <code>Lua</code>☕</p>  
   
   <h3>You can connect with me here:</h3>
   <p>
